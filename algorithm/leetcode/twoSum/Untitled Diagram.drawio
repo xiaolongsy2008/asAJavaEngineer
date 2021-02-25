@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T03:37:32.695Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.4.2" etag="cEVgMQxN1peWxZRRLCkT" type="github"><diagram id="FLrrWJUAtOJ6hWwVN5KP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-25T08:32:26.875Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="IeNgvkL2irHWkXZEsV6p" version="14.4.2" type="github">
+  <diagram id="FLrrWJUAtOJ6hWwVN5KP" name="Page-1">
+    <mxGraphModel dx="1426" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;A-bcd-]e&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="90" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="152" as="sourcePoint" />
+            <mxPoint x="185" y="122" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="127" y="150" as="sourcePoint" />
+            <mxPoint x="127" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-9" value="&lt;div&gt;&lt;span&gt;初始化指针状态： 左右指针分别指向字符串的头尾&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="390" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-10" value="&lt;span style=&quot;font-size: 18px&quot;&gt;e-bcd-]A&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="190" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-11" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="176" y="252" as="sourcePoint" />
+            <mxPoint x="176" y="222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="133" y="250" as="sourcePoint" />
+            <mxPoint x="133" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-13" value="&lt;div&gt;&lt;span&gt;第1步： 从尾指针开始向前寻找第一个字母字符（e），从头指针开始寻找第一个字母字符（A），完成交换后为指针前移，头指针后移&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="570" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-14" value="&lt;span style=&quot;font-size: 18px&quot;&gt;e-dcb-]A&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="390" as="sourcePoint" />
+            <mxPoint x="150" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-16" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="346" as="sourcePoint" />
+            <mxPoint x="150" y="316" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-17" value="&lt;div&gt;&lt;span&gt;第2步： 从尾指针开始向前寻找第一个字母字符（d），从头指针开始寻找第一个字母字符（b），完成交换后为指针前移，头指针后移,流程结束！&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="570" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-19" value="&lt;span style=&quot;font-size: 18px&quot;&gt;7_28]&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="480" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="580" as="sourcePoint" />
+            <mxPoint x="130" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-21" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="127" y="540" as="sourcePoint" />
+            <mxPoint x="127" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zwb7iGwK8RU0KdK2lxab-22" value="&lt;div&gt;&lt;span&gt;初始化指针状态： 左右指针分别指向字符串的头尾&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="485" width="390" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
